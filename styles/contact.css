@@ -1,0 +1,9 @@
+main {
+    text-justify: center;
+}
+
+#my-pic {
+    border-radius: 50px;
+    width: 300px;
+    height: 250px;
+}

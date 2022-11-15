@@ -1,0 +1,37 @@
+header {
+    border: black, 2cm;
+    background-color:lightgoldenrodyellow;
+    color: chocolate;
+}
+
+footer {
+    border: black, 2cm;
+    background-color:lightskyblue;
+}
+
+main {
+    background-color:lightcyan;
+}
+
+body {
+    font-family: Arial;
+}
+
+ul {
+    list-style: none;
+}
+
+.book-title {
+    font-style: italic;
+    font-size: x-large;
+}
+
+.hover-change:hover {
+    color: red;
+    background-color: lightyellow;
+}
+
+#intro {
+    font-size: x-large;
+    font-weight: bold;
+}
