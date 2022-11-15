@@ -1,16 +1,16 @@
 header {
-    border: black, 2cm;
-    background-color:lightgoldenrodyellow;
+    border:2pt black;
+    background-color:cornsilk;
     color: chocolate;
 }
 
 footer {
-    border: black, 2cm;
-    background-color:lightskyblue;
+    border:2pt black;
+    background-color:burlywood;
 }
 
 main {
-    background-color:lightcyan;
+    background-color:blanchedalmond;
 }
 
 body {
